@@ -1,7 +1,7 @@
 Hi 👋 I'm Khalidur Rahman Sujon
 ======================================
 
-Driven Backend Developer | Passionate about Python, Django & Web Development | | Eager to Grow & Excel | Enthusiastic Learner & Problem Solver
+Mern Developer | Passionate about Web Development | | Eager to Grow & Excel | Enthusiastic Learner & Problem Solver
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 I am a skilled backend developer specializing in Django. My passion for Python fuels my coding prowess. I continuously seek growth, tackle challenges, and stay up-to-date with industry trends. Meticulous and detail-oriented, I create elegant solutions that scale and optimize performance. Collaborative and forward-thinking, I aspire to leave a mark on the web development landscape through my Django expertise.
