@@ -4,11 +4,11 @@ Hi 👋 I'm Khalidur Rahman Sujon
 Mern Developer | Passionate about Web Development | | Eager to Grow & Excel | Enthusiastic Learner & Problem Solver
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a skilled backend developer specializing in Django. My passion for Python fuels my coding prowess. I continuously seek growth, tackle challenges, and stay up-to-date with industry trends. Meticulous and detail-oriented, I create elegant solutions that scale and optimize performance. Collaborative and forward-thinking, I aspire to leave a mark on the web development landscape through my Django expertise.
+I am a skilled backend developer specializing in MERN. My passion for Web Development fuels my coding prowess. I continuously seek growth, tackle challenges, and stay up-to-date with industry trends. Meticulous and detail-oriented, I create elegant solutions that scale and optimize performance. Collaborative and forward-thinking, I aspire to leave a mark on the web development landscape through my MERN expertise.
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [khalidur.sujon@gmail.com](mailto:khalidur.sujon@gmail.com)
-*   🧠  I'm learning Django, Postgresql
+*   🧠  I'm learning Typescript, Next.js
 ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
