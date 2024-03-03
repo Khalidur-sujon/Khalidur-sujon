@@ -4,7 +4,8 @@ Hi 👋 I'm Khalidur Rahman Sujon
 Mern Developer | Passionate about Web Development | | Eager to Grow & Excel | Enthusiastic Learner & Problem Solver
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a skilled full stack developer specializing in MERN. My passion for Web Development fuels my coding prowess. I continuously seek growth, tackle challenges, and stay up-to-date with industry trends. Meticulous and detail-oriented, I create elegant solutions that scale and optimize performance. Collaborative and forward-thinking, I aspire to leave a mark on the web development landscape through my MERN expertise.
+<b>Nature enthusiast turned passionate coder<b>, I'm driven to build intuitive interfaces that simplify interactions and infuse technology with a touch of human connection. As a collaborative and eager learner, I leverage my Front-End development skills (React, Tailwind CSS, JavaScript) to contribute to impactful projects.
+Beyond code, I value meaningful connections. Whether on the cricket pitch or in the collaborative spirit of team development, I thrive on fostering positive interactions.
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [khalidur.sujon@gmail.com](mailto:khalidur.sujon@gmail.com)
