@@ -1,7 +1,7 @@
 Hi 👋 I'm Khalidur Rahman Sujon
 ======================================
 
-Mern Developer | Passionate about Web Development | | Eager to Grow & Excel | Enthusiastic Learner & Problem Solver
+Front-End Developer | UX Enthusiast
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 Nature enthusiast turned passionate coder, I'm driven to build intuitive interfaces that simplify interactions and infuse technology with a touch of human connection. As a collaborative and eager learner, I leverage my Front-End development skills (React,CSS, Tailwind CSS, JavaScript) to contribute to impactful projects.
