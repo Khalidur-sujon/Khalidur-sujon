@@ -4,7 +4,7 @@ Hi 👋 I'm Khalidur Rahman Sujon
 Front-End Developer | UX Enthusiast
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Nature lover turned passionate coder, I'm driven to create user-friendly interfaces that simplify and connect. As a collaborative learner, I leverage my Front-End expertise (React, CSS, Tailwind, JS) to contribute to impactful projects. Beyond the code, I value meaningful connections, whether it's on the cricket pitch, a friendly game of billiards, or fostering positive interactions within teams.
+Front-End Engineer with over 2.5 years of experience building user-friendly web applications (React, Next.js) and contributing to enterprise solutions (ERP). Skilled in crafting intuitive interfaces, tackling complex challenges, and collaborating effectively. Passionate about creating seamless user experiences and staying up-to-date with the latest web development trends.
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [khalidur.sujon@gmail.com](mailto:khalidur.sujon@gmail.com)
