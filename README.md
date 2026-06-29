@@ -1,57 +1,80 @@
-Hi 👋 I'm Khalidur Rahman Sujon
-======================================
+<h1 align="center">Hi 👋, I'm Khalidur Rahman Sujon</h1>
 
-Front-End Developer | UX Enthusiast
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Front-End Developer with over 2.5 years of experience building user-friendly web applications (React, Next.js) and contributing to enterprise solutions (ERP). Skilled in crafting intuitive interfaces, tackling complex challenges, and collaborating effectively. Passionate about creating seamless user experiences and staying up-to-date with the latest web development trends.
-
-*   🌍  I'm based in Dhaka, Bangladesh
-*   ✉️  You can contact me at [khalidur.sujon@gmail.com](mailto:khalidur.sujon@gmail.com)
-*   🧠  I'm learning Typescript, Next.js
-### Skills 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-</a>
-  
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-</a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<p align="center">
+  <strong>Software Engineer • React • Next.js • Frontend Architecture</strong>
 </p>
-                    
-### Socials
-                  
-                  
-<p align="left">                        
-<a href="https://www.github.com/Khalidur-sujon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/khalidur-rahman-bbb274222/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+<p align="center">
+Building scalable frontend systems for enterprise applications.
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Khalidur-sujon"><img src="https://github-readme-stats.vercel.app/api?username=Khalidur-sujon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Khalidur-sujon's GitHub stats" /></a>
+## 👨‍💻 About Me
 
-<a href="http://www.github.com/Khalidur-sujon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidur-sujon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Frontend Engineer with 4 years of experience building React and Next.js applications for ERP, ride-sharing, and e-commerce platforms.
 
-<a href="https://github.com/Khalidur-sujon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidur-sujon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+My work focuses on designing modular frontend architecture, building workflow-driven applications, improving performance, and creating maintainable systems that scale as products evolve. I enjoy turning complex business requirements into simple, reliable user experiences through thoughtful engineering.
+
+---
+
+## 🚀 What I Work On
+
+- 🏗️ Frontend architecture and scalable application design
+- 🔐 Role-Based Access Control (RBAC) and workflow-driven systems
+- ⚡ Performance optimization (Core Web Vitals, SSR, CSR, caching)
+- 🧩 Reusable component architecture and maintainable codebases
+- 📊 Enterprise dashboards and business applications
+- 🤝 Cross-functional product development
+
+---
+
+## 🚀 Current Focus
+
+- Designing scalable frontend architecture
+- Optimizing React and Next.js applications
+- Building reusable component systems
+- Creating maintainable frontend applications for enterprise products
+
+---
+
+## 💡 Engineering Principles
+
+- Keep components simple, reusable, and easy to extend.
+- Design for maintainability before adding complexity.
+- Optimize performance based on measurement, not assumptions.
+- Write code that makes future changes easier, not harder.
+- Prioritize user experience without sacrificing code quality.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,vite,webpack,jest,git" />
+
+</p>
+
+---
+
+## 🤝 Connect
+
+- 📍 Dhaka, Bangladesh
+- 📧 **khalidur.sujon@gmail.com**
+- 💼 Open to remote Frontend Engineer opportunities
+
+<p align="left">
+
+<a href="https://github.com/Khalidur-sujon" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khalidur-rahman-bbb274222/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
