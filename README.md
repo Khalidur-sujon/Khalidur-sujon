@@ -12,7 +12,7 @@ Building scalable frontend systems for enterprise applications.
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with 4 years of experience building React and Next.js applications for ERP, ride-sharing, and e-commerce platforms.
+Software Engineer with 4 years of experience building React and Next.js applications for ERP, ride-sharing, and e-commerce platforms.
 
 My work focuses on designing modular frontend architecture, building workflow-driven applications, improving performance, and creating maintainable systems that scale as products evolve. I enjoy turning complex business requirements into simple, reliable user experiences through thoughtful engineering.
 
